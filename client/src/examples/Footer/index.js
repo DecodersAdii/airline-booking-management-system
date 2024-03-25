@@ -67,10 +67,10 @@ function Footer({ company, links }) {
             </MDBox> */}
         <Link href="" target="_blank">
           <MDTypography variant="button" fontWeight="medium" color={"dark"}>
-            &nbsp;Deepak Singh&nbsp;
+            &nbsp; Aryan ,Aditya,Atish&nbsp;
           </MDTypography>
         </Link>
-        for petty grades.
+        for DBMS Mini Project.
       </MDBox>
     </MDBox>
   );
